@@ -1,0 +1,27 @@
+[submodule "nvim_share/plugins/darcula-dark.nvim"]
+	path = nvim_share/plugins/darcula-dark.nvim
+	url = https://github.com/xiantang/darcula-dark.nvim
+[submodule "nvim_share/plugins/nvim-treesitter"]
+	path = nvim_share/plugins/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter/
+[submodule "nvim_share/plugins/plenary.nvim"]
+	path = nvim_share/plugins/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "nvim_share/plugins/telescope-fzf-native.nvim"]
+	path = nvim_share/plugins/telescope-fzf-native.nvim
+	url = https://github.com/nvim-telescope/telescope-fzf-native.nvim
+[submodule "nvim_share/plugins/telescope.nvim"]
+	path = nvim_share/plugins/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "nvim_share/plugins/tree-sitter-c"]
+	path = nvim_share/plugins/tree-sitter-c
+	url = https://github.com/tree-sitter/tree-sitter-c
+[submodule "nvim_share/plugins/tree-sitter-cpp"]
+	path = nvim_share/plugins/tree-sitter-cpp
+	url = https://github.com/tree-sitter/tree-sitter-cpp
+[submodule "nvim_share/plugins/tree-sitter-lua"]
+	path = nvim_share/plugins/tree-sitter-lua
+	url = https://github.com/MunifTanjim/tree-sitter-lua
+[submodule "nvim_share/plugins/tree-sitter-python"]
+	path = nvim_share/plugins/tree-sitter-python
+	url = https://github.com/MunifTanjim/tree-sitter-lua
